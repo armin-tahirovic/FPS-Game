@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a804723bdccf04fca985e160ab5f88d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mls: {instanceID: 0}
+  - volume: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - bulletSpawnPlace: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - shoot_sound_source: {instanceID: 0}
+  - reloadSound_source: {instanceID: 0}
+  - muzzelSpawn: {instanceID: 0}
+  - HUD_bullets: {instanceID: 0}
+  - horizontal_crosshair: {instanceID: 0}
+  - vertical_crosshair: {instanceID: 0}
+  - handsAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
