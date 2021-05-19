@@ -14131,6 +14131,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9066850093268511482, guid: 1895fb53348ed3940aeb97a2b3aedc00,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ffca86f74f18233469ebfedb1b9fc434, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1895fb53348ed3940aeb97a2b3aedc00, type: 3}
 --- !u!1001 &1907905005952765869
@@ -14289,6 +14294,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: LevelPart
       objectReference: {fileID: 0}
+    - target: {fileID: 5305310439261025128, guid: 2451c408a2791344f8666176d318e508,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ffca86f74f18233469ebfedb1b9fc434, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2451c408a2791344f8666176d318e508, type: 3}
 --- !u!1001 &3275462498021763553
@@ -14298,6 +14308,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1714121350}
     m_Modifications:
+    - target: {fileID: 2919541548590612050, guid: 6156384a2d2cadd4cb434924247c1d91,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ffca86f74f18233469ebfedb1b9fc434, type: 2}
     - target: {fileID: 5134495718853262285, guid: 6156384a2d2cadd4cb434924247c1d91,
         type: 3}
       propertyPath: m_Name
@@ -14437,6 +14452,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8064957771207660341, guid: be09662a37e7ae54c9cb796989be16e6,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ffca86f74f18233469ebfedb1b9fc434, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: be09662a37e7ae54c9cb796989be16e6, type: 3}
 --- !u!1001 &7843128161106907764
